@@ -1,6 +1,6 @@
 # 📚 Library Management System - SQL Project
 
-![Library System](library.jpg)
+![ERD Diagram](ERD%20Diagram.png)
 
 ## 📋 Project Overview
 
