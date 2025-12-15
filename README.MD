@@ -76,9 +76,6 @@ This project bridges theoretical database concepts with practical implementation
 
 ## 🗂️ Database Schema
 
-### Entity Relationship Diagram (ERD)
-![ERD](library_erd.png)
-
 ### Tables Structure
 
 **1. branch**
