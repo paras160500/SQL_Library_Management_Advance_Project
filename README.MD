@@ -1,6 +1,6 @@
 # 📚 Library Management System - SQL Project
 
-![ERD Diagram](ERD%20Diagram.png)
+![Main Diagram](diagram.png)
 
 ## 📋 Project Overview
 
@@ -75,6 +75,8 @@ This project bridges theoretical database concepts with practical implementation
 ---
 
 ## 🗂️ Database Schema
+
+![ERD Diagram](ERD%20Diagram.png)
 
 ### Tables Structure
 
